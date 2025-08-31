@@ -1,0 +1,21 @@
+
+
+.FaqHeader{
+   
+    width:700px;
+    min-height: 50px;
+    border: 2px solid black;
+    gap:'10px';
+    flex-direction: column;
+    padding:4px 30px;
+}
+
+.rotate{
+    transform: rotate(90deg);
+}
+
+.showButton{
+     display: flex;
+    align-items: start;
+    justify-content: center;
+}
