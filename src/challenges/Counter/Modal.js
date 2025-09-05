@@ -28,7 +28,7 @@ const Modal = () => {
         <button className='cancelButton' onClick={()=>setShowModal(false)}> x </button>
 
       <div className='content'>
-        Click the button below to accept our amazing offerdecccccccccccccccccccccccccccccccccccc.
+        Click the button below to accept our amazing offer.
       </div>
 
       <button className='offerButton' onClick={handleofferButton}>
